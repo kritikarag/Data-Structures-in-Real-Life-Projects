@@ -3,7 +3,7 @@ import { BinaryHeap } from './heap.js';
 
 onload = function () {
     // create a network
-    let curr_data;
+    let curr_data; 
     const container = document.getElementById('mynetwork');
     const container2 = document.getElementById('mynetwork2');
     const genNew = document.getElementById('generate-graph');

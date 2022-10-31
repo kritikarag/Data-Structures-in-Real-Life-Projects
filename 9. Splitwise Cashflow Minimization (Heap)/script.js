@@ -35,6 +35,7 @@ onload = function () {
         }
     };
     // initialize your network!
+    
     let network = new vis.Network(container);
     network.setOptions(options);
     let network2 = new vis.Network(container2);

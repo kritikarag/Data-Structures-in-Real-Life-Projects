@@ -45,6 +45,7 @@ class BinaryHeap {
             this.sinkDown(0);
         }
         return max;
+        
     }
 
     sinkDown(index) {
